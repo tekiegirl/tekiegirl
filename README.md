@@ -1,6 +1,7 @@
-![[General Header Jacqui Read.png]]
+<img src="assets/GeneralHeaderJacquiRead.png" alt="Jacqui Read: thought leader, solution architect, connections are everywhere, communicate all the things" />
+
 # Jacqui Read
-![[Jacqui Bitmoji Avatar.png]](she/her)
+(she/her)
 
 ![forthebadge](https://forthebadge.com/images/badges/uses-badges.svg)  ![forthebadge](https://forthebadge.com/images/badges/made-with-markdown.svg) ![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg) ![forthebadge](https://forthebadge.com/images/badges/no-ragrets.svg)
 
