@@ -3,7 +3,7 @@
 # Jacqui Read
 (she/her)
 
-![forthebadge](https://forthebadge.com/images/badges/uses-badges.svg)  ![forthebadge](https://forthebadge.com/images/badges/made-with-markdown.svg) ![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg) ![forthebadge](https://forthebadge.com/images/badges/no-ragrets.svg)
+![forthebadge](https://forthebadge.com/images/badges/uses-badges.svg)  ![forthebadge](https://forthebadge.com/images/badges/made-with-markdown.svg) ![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)
 
 ## 👋 Find me on
 [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/tekiegirl) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacquelineread/) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@tekiegirl) [![Twitter](https://img.shields.io/badge/tekiegirl-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/tekiegirl) 
