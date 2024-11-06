@@ -16,11 +16,11 @@
 
 ## 💡 My latest Thoughts
 <!-- BLOG-POST-LIST:START -->
+- [Software Design: What went wrong?](https://tekiegirl.medium.com/software-design-what-went-wrong-fad6e63e3028?source=rss-afb589d68187------2)
 - [The Knowledge Vault: ADRs](https://tekiegirl.medium.com/the-knowledge-vault-adrs-47f50220e5a8?source=rss-afb589d68187------2)
 - [SDD Conference Top Takeaways — Evolutionary Architecture](https://tekiegirl.medium.com/sdd-conference-top-takeaways-evolutionary-architecture-8a0e08918cb5?source=rss-afb589d68187------2)
 - [How to get started with Obsidian Dataview and Dataviewjs](https://medium.com/os-techblog/how-to-get-started-with-obsidian-dataview-and-dataviewjs-5d6b5733d4a4?source=rss-afb589d68187------2)
 - [Tips for your Code Journal | Code Journaling pt 4 of 4](https://tekiegirl.medium.com/tips-for-your-code-journal-code-journaling-pt-4-of-4-d3c3c8fb8608?source=rss-afb589d68187------2)
-- [Why you should keep a Code Journal | Code Journaling pt 1 of 4](https://tekiegirl.medium.com/why-you-should-keep-a-code-journal-code-journaling-pt-1-of-4-4069e587da04?source=rss-afb589d68187------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💬 Ask me about
