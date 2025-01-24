@@ -1,4 +1,4 @@
-<img src="assets/GithubHeader.png" alt="Jacqui Read: thought leader, solution architect, connections are everywhere, communicate all the things" />
+<img src="assets/GitHubHeader.png" alt="Jacqui Read: thought leader, solution architect, connections are everywhere, communicate all the things" />
 
 ## 👋 Find me on
 [![JacquiRead.com](https://img.shields.io/badge/JacquiRead.com-%23fccc00.svg?style=for-the-badge&color=fccc00)](https://jacquiread.com/?mtm_campaign=tech&mtm_source=github-profile)
@@ -13,11 +13,11 @@
 
 ## 💡 My latest Thoughts
 <!-- BLOG-POST-LIST:START -->
-- [Better Software Design: Changing how we talk about software](https://tekiegirl.medium.com/better-software-design-changing-how-we-talk-about-software-fc6693f656bc?source=rss-afb589d68187------2)
-- [Software Design: What went wrong?](https://tekiegirl.medium.com/software-design-what-went-wrong-fad6e63e3028?source=rss-afb589d68187------2)
-- [The Knowledge Vault: ADRs](https://tekiegirl.medium.com/the-knowledge-vault-adrs-47f50220e5a8?source=rss-afb589d68187------2)
-- [SDD Conference Top Takeaways — Evolutionary Architecture](https://tekiegirl.medium.com/sdd-conference-top-takeaways-evolutionary-architecture-8a0e08918cb5?source=rss-afb589d68187------2)
-- [How to get started with Obsidian Dataview and Dataviewjs](https://medium.com/os-techblog/how-to-get-started-with-obsidian-dataview-and-dataviewjs-5d6b5733d4a4?source=rss-afb589d68187------2)
+- [The Software Design Newsletter #1: The ACED Model](https://jacquiread.com/posts/the-software-design-newsletter-001/)
+- [Better Software Design: Changing how we talk about software](https://jacquiread.com/posts/better-software-design/)
+- [Happy 1st Birthday to Communication Patterns!](https://jacquiread.com/posts/first-birthday/)
+- [Software Architecture Monday #200](https://jacquiread.com/posts/software-architecture-monday-200/)
+- [Conference Tour 2024 has ended](https://jacquiread.com/posts/tour-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💬 Ask me about
