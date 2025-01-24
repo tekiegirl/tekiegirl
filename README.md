@@ -9,6 +9,7 @@
 
 ## 👩🏻‍💻 Things I am working on
 [![ACEDmodel.com](https://img.shields.io/badge/ACEDmodel.com-%23fb9600.svg?style=for-the-badge&color=fb9600)](https://acedmodel.com/?mtm_campaign=tech&mtm_source=github-profile)
+[![KataLog](https://img.shields.io/badge/The%20Katalog-%23ffd10d.svg?style=for-the-badge&color=ffd10d)](https://github.com/TheKataLog)
 
 ## 💡 My latest Thoughts
 <!-- BLOG-POST-LIST:START -->
