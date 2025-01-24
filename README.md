@@ -1,4 +1,4 @@
-<img src="assets/GithubHeader.png" alt="Jacqui Read: thought leader, solution architect, connections are everywhere, communicate all the things" />
+<img src="assets/GitHubHeader.png" alt="Jacqui Read: thought leader, solution architect, connections are everywhere, communicate all the things" />
 
 ## 👋 Find me on
 [![JacquiRead.com](https://img.shields.io/badge/JacquiRead.com-%23fccc00.svg?style=for-the-badge&color=fccc00)](https://jacquiread.com/?mtm_campaign=tech&mtm_source=github-profile)
