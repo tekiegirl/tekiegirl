@@ -13,11 +13,11 @@
 
 ## 💡 My latest Thoughts
 <!-- BLOG-POST-LIST:START -->
+- [What makes an architect?](https://jacquiread.com/posts/what-makes-an-architect/)
 - [Technical Debt: A false sense of security](https://jacquiread.com/posts/technical-debt-in-software-development/)
 - [Influence and Awareness: Breaking software development silos](https://jacquiread.com/posts/influence-and-awareness/)
 - [The Software Design Newsletter #1: The ACED Model](https://jacquiread.com/posts/the-software-design-newsletter-001/)
 - [Better Software Design: Changing how we talk about software](https://jacquiread.com/posts/better-software-design/)
-- [Happy 1st Birthday to Communication Patterns!](https://jacquiread.com/posts/first-birthday/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💬 Ask me about
