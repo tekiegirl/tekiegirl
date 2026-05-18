@@ -13,11 +13,11 @@
 
 ## 💡 My latest Thoughts
 <!-- BLOG-POST-LIST:START -->
+- [TechWomen100 2025 Winner](https://jacquiread.com/posts/techwomen100-2025/)
 - [Talks as Sketchnotes](https://jacquiread.com/posts/software-design-and-architecture-sketchnotes-2025/)
 - [What is an architect?](https://jacquiread.com/posts/what-is-an-architect/)
 - [Technical Debt: Pressures on decision-makers](https://jacquiread.com/posts/technical-debt-in-software-development/)
 - [Influence and Awareness: Breaking software development silos](https://jacquiread.com/posts/influence-and-awareness/)
-- [The Software Design Newsletter #1: The ACED Model](https://jacquiread.com/posts/the-software-design-newsletter-001/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💬 Ask me about
